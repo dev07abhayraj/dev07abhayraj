@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Abhayraj Patel BTech Cyber Security and Forensic</h1>
+<h1 align="center">🚀 Abhayraj Patel</h1>
 <h3 align="center">⚡ Full Stack Developer | Cybersecurity Analyst | Builder of CosmoTrinity & ATV Suite</h3>
 
 <p align="center">
