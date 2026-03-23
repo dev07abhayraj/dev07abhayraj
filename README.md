@@ -95,7 +95,7 @@
   <a href="https://cosmotrinity.com">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github">
   </a>
-  <a href="#">
+  <a href="https://www.youtube.com/@brahmastraengineering">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube">
   </a>
 </p>
