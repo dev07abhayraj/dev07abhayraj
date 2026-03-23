@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Abhay Raj</h1>
-<h3 align="center">⚡ Full Stack Developer | Cybersecurity Analyst | Builder of ATV Suite</h3>
+<h1 align="center">🚀 Abhayraj Patel</h1>
+<h3 align="center">⚡ Full Stack Developer | Cybersecurity Analyst | Builder of CosmoTrinity & ATV Suite</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+ATV+9+Suite;Future+Tech+Entrepreneur;Cybersecurity+%7C+MERN+%7C+App+Dev;Consistency+%3D+Success+%F0%9F%94%A5">
